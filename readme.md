@@ -67,13 +67,13 @@ pip install torch numpy scikit-learn
 From **inside this folder**, run:
 
 ```bash
-python inference.py --data_root test
+python inference.py --data_root <path/to/test/dataset>
 ```
 
 or (if using a specific Python interpreter):
 
 ```bash
-C:\path\to\python.exe inference.py --data_root test
+C:\path\to\python.exe inference.py --data_root <path/to/test/dataset>
 ```
 
 ---
