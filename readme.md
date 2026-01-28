@@ -1,6 +1,8 @@
 # Inference Guideline (Team GhostGrip)
-<br>
-Synpase - Third Place Solution <br>
+
+#### Synapse : The NeuroTech Challenge - Third Place Solution 
+Check out the results [here](https://unstop.com/hackathons/synapse-the-neurotech-challenge-parsec-60-indian-institute-of-technology-iit-dharwad-1606751/case-submissions/755219)
+
 This folder contains the **trained Synapse-SRW model (SWA)** and an inference script to evaluate it on an unseen test dataset with the **same structure as the training data**.
 
 ## Folder Contents
@@ -115,11 +117,3 @@ Macro-F1 : 0.9044
 * GPU will be used automatically if available.
 * No training occurs — this script is **inference-only**.
 * Do **not** rename model or stats files.
-
----
-
-## Repository
-
-Full project repository:
-🔗 [https://github.com/Sameer513-code/GhostGrip-Synapse](https://github.com/Sameer513-code/GhostGrip-Synapse)
-
