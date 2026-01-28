@@ -1,5 +1,6 @@
 # Inference Guideline (Team GhostGrip)
-
+<br>
+Synpase - Third Place Solution <br>
 This folder contains the **trained Synapse-SRW model (SWA)** and an inference script to evaluate it on an unseen test dataset with the **same structure as the training data**.
 
 ## Folder Contents
